@@ -52,7 +52,7 @@ An advanced AI-powered productivity and professional networking platform that le
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/narrisia/Narrisia-beta-release.git
-   cd narrisia
+   cd Narrisia-beta-release
    ```
 
 2. **Install dependencies:**
